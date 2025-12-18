@@ -124,6 +124,6 @@ The application provides two complementary visual tools to select the number of 
 
 ## Developed By
 
-Md. Zubayer Hasan 
-* [LinkedIn](https://www.linkedin.com/in/md-zubayer-hasan)
-* [GitHub](https://github.com/Zubayer24)
+Md. Zubayer Hasan <br>
+[LinkedIn](https://www.linkedin.com/in/md-zubayer-hasan) <br>
+[GitHub](https://github.com/Zubayer24)
